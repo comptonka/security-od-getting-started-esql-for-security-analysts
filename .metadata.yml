@@ -1,0 +1,45 @@
+slug: security-od-getting-started-with-esql-for-security-analysts
+developers:
+- enrique.kortright@elastic.co
+- james.murray@elastic.co
+- joseph.delarosa@elastic.co
+- mark.laney@elastic.co
+- nicholas.mezhir@elastic.co
+- rachael.wurth@elastic.co
+- sheryl.sarokas@elastic.co
+- yulia.genkina@elastic.co
+- douglas.sentz@elastic.co
+- niki.watson@elastic.co
+- steven.twardzik@elastic.co
+elastic-stack:
+  current-version: 8.18.2
+  versions-allowed:
+  - 8.18.2
+content-scope:
+  description:.Explore the basics of Elasticsearch Query Language (ES|QL). You will learn how to use ES|QL in Kibana to retrieve, filter, and summarize security data to support real investigation workflows.
+  prerequisites: 'Discover Getting Started with Kibana'
+learning-objective:
+  track: Use ES|QL in Kibana to query, filter, transform, and analyze security event data to support basic investigation workflows.
+  lo1: Describe the purpose and basic structure of ES|QL and its role in querying security data in Kibana
+  lo2: Construct and execute a basic ES|QL query in Kibana to retrieve security event data from a specified index.
+  lo3: Apply ES|QL filtering and sorting commands to isolate relevant security events from a dataset.
+  lo4: Use ES|QL transformation and aggregation commands to summarize security event data and identify patterns.
+  lo5: Modify and execute ES|QL queries to investigate a basic security scenario and refine results based on new findings.
+target-audience:
+  notes: 'Security analyst (Network), Endpoint analyst, Threat intelligence analyst, Incident responder, Threat hunter, Detection Engineer, SIEM engineer, SOC admin, SOC manager'
+our-named-tags:
+  module-name: getting-started-with-esql-for-security-analysts
+  status: development
+  content-type: od
+  module-version: 1.0.0
+  solution: 
+  - security
+  elastic-version: 8.18.2
+instruqt-tags:
+- team/curriculum
+- module-name/getting-started-with-esql-for-security-analysts
+- elastic-version/8.18.2
+- module-version/1.0.0
+- status/development
+- content-type/od
+- solution/security
