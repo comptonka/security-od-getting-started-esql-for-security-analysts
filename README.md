@@ -71,3 +71,5 @@ Design the outline for 45-60 minutes of total seat time, divided into short, bit
 - Content dev creates a sub-issue for ISD review
 - ISD reviews using a review branch
 - After review, the review branch is merged with the content dev branch
+
+After the content outline has been reviewed and approved, the [.metadata.yml](https://github.com/comptonka/security-od-getting-started-esql-for-security-analysts/blob/main/.metadata.yml) file can be created and added to the track repo
