@@ -3,6 +3,8 @@
 
 **Content Development Cycle:** After the content outline has been reviewed and approved by peers, SME, and ISD, the content dev can go straight to developing their track in Instruqt. This eliminates the need for a “Track Plan”.
 
+**Content Development with AI:** AI can be utilized to help create the content. Be sure to review and revise.
+
 
 <details> <summary> Example AI Prompt </summary>
  
