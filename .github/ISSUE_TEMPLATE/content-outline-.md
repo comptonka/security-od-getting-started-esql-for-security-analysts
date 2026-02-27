@@ -15,15 +15,13 @@ assignees: ''
 
 ## Course Description
 
-<!-- 2–4 sentences.
-Describe what the learner will be able to do and why it matters.
-Focus on real-world application. -->
+<!-- Address the learner, help them decide whether this is relevant content for them. Limit this section to 3 sentences to describe the purpose of the track. This will be published online.  -->
 
 ---
 
 ## Target Audience
 
-<!-- List the primary personas this track is designed for -->
+<!-- List the primary personas this track is designed for. Use the database to select up to five personas that align with your module’s goals and audience. In the table, write each persona’s role or title and paste the link to their profile. -->
 
 - 
 - 
@@ -54,7 +52,8 @@ Focus on real-world application. -->
 
 ---
 
-## LO1 – <Short Action-Oriented Title>
+## LO1 – Learners will be able to:
+<!-- Measurable outcome aligned to Bloom's taxonomy -->
 
 ### Challenge Title
 <!-- Name of the lab or lesson -->
@@ -70,13 +69,11 @@ Focus on real-world application. -->
 ### Assessment Type
 <!-- e.g., MC question, CTFd challenge, Lab submission -->
 
-### Learners will be able to:
+---
+
+## LO2 – Learners will be able to:
 <!-- Measurable outcome aligned to Bloom's taxonomy -->
 
----
-
-## LO2 – <Short Action-Oriented Title>
-
 ### Challenge Title
 
 ### Topics Covered
@@ -88,11 +85,10 @@ Focus on real-world application. -->
 
 ### Assessment Type
 
-### Learners will be able to:
-
 ---
 
-## LO3 – <Short Action-Oriented Title>
+## LO3 – Learners will be able to:
+<!-- Measurable outcome aligned to Bloom's taxonomy -->
 
 ### Challenge Title
 
@@ -104,8 +100,6 @@ Focus on real-world application. -->
 ### Learning Activity
 
 ### Assessment Type
-
-### Learners will be able to:
 
 ---
 
@@ -113,19 +107,9 @@ Focus on real-world application. -->
 
 ---
 
-# Assessment Strategy
-
-| LO | Assessment Type | Auto-graded? (Y/N) |
-|----|------------------|-------------------|
-| LO1 |                  |                   |
-| LO2 |                  |                   |
-| LO3 |                  |                   |
-
----
-
 # Infrastructure Requirements
 
-<!-- List datasets, presets, environments, tooling -->
+<!-- datasets, pre-sets and sandboxes that this track will require, ES version backwards compatibility range -->
 
 - 
 - 
