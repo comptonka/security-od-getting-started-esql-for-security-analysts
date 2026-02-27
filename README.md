@@ -59,10 +59,15 @@ Design the outline for 45-60 minutes of total seat time, divided into short, bit
 
 ## Options for creating a content outline:
 
-**Option 1:** Submit your content outline as a sub-issue of the Track ticket (story) using the [content outline issue template](https://github.com/comptonka/security-od-getting-started-esql-for-security-analysts/issues/templates/edit). REPO: [curriculum-engineering](https://github.com/elastic/curriculum-engineering/issues)
+**Option 1:** Submit your content outline as a sub-issue of the main Track ticket (story) using the [content outline issue template](https://github.com/comptonka/security-od-getting-started-esql-for-security-analysts/issues/templates/edit). REPO: [curriculum-engineering](https://github.com/elastic/curriculum-engineering/issues)
 - Peer and SME reviews - comment on the issue
 - Content dev edits the outline based on feedback
 - Move the ticket to the "Content Outline Review" column and label the ticket `team:isd`
 - ISD reviews content outline in the issue
 
-**Option 2:** 
+**Option 2:** Create a hidden markdown file inside your track repo. Example: [.contentoutline.md](https://github.com/comptonka/security-od-getting-started-esql-for-security-analysts/blob/main/.contentoutline.md)
+- Peer and SME reviews
+- Content dev edits the outline based on feedback
+- Content dev creates a sub-issue for ISD review
+- ISD reviews using a review branch
+- After review, the review branch is merged with the content dev branch
