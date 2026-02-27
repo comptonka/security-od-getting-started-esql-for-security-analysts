@@ -3,8 +3,12 @@
 
 **Content Development Cycle:** After the content outline has been reviewed and approved by peers, SME, and ISD, the content dev can go straight to developing their track in Instruqt. This eliminates the need for a “Track Plan”.
 
-**Example AI Prompt:**
-```Act as a senior instructional designer with expertise in cybersecurity and eLearning course development.
+
+<details> <summary> Example AI Prompt </summary>
+ 
+```
+
+Act as a senior instructional designer with expertise in cybersecurity and eLearning course development.
 Create a structured content outline (not full content) using the template below for a short, self-paced eLearning course.
 The course must align to the Apply level of Bloom’s Revised Taxonomy. Learners must be able to write and execute basic ES|QL queries in realistic security investigation scenarios.
 Keep the tone professional, concise, and beginner-friendly. Focus on real-world application rather than theory.
@@ -48,6 +52,8 @@ Avoid unnecessary Elasticsearch architecture theory unless directly required for
 Design the outline for 45-60 minutes of total seat time, divided into short, bite-sized segments.
 
 ```
+
+</details>
 
 ## Options for creating a content outline:
 
